@@ -17,7 +17,7 @@ public interface FrameworkConfig extends Config {
     BrowserType browser();
 
     @Key("browserRunMode")
-    BrowserRunModeType browserRunMode();
+    BrowserRunModeType  browserRunMode();
 
     @Key("browserRemoteMode")
     BrowserRemoteModeType browserRemoteMode();

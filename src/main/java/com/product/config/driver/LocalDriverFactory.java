@@ -5,11 +5,9 @@ import com.product.config.enums.BrowserType;
 import com.product.config.manager.ChromeManager;
 import com.product.config.manager.EdgeManager;
 import com.product.config.manager.FirefoxManager;
-import io.github.bonigarcia.wdm.WebDriverManager;
+
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.edge.EdgeDriver;
-import org.openqa.selenium.firefox.FirefoxDriver;
+
 
 public final class LocalDriverFactory {
 
