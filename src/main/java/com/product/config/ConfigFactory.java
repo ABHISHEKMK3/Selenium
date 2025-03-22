@@ -2,7 +2,7 @@ package com.product.config;
 
 import org.aeonbits.owner.ConfigCache;
 
-import java.awt.*;
+
 
 public final class ConfigFactory {
 

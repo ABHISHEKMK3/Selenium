@@ -2,11 +2,8 @@ package com.sample;
 
 
 import com.product.config.ConfigFactory;
-import com.product.config.FrameworkConfig;
-import org.aeonbits.owner.ConfigCache;
-import org.testng.annotations.Test;
 
-import java.sql.SQLOutput;
+import org.testng.annotations.Test;
 
 /**
  * Unit test for simple App.
