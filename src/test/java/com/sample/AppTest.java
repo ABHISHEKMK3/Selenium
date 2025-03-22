@@ -16,14 +16,10 @@ public class AppTest {
     @Test
     public void testLogin() {
 
-      //  FrameworkConfig config = ConfigFactory.create(FrameworkConfig.class);
-
         System.out.println(ConfigFactory.getConfig().browser());
 
 
-    //    WebDriverManager.chromedriver().setup();
-    //    WebDriver driver = new ChromeDriver();
-     //   driver.get("https://google.co.in");
-     //   driver.quit();
+
+
     }
 }
